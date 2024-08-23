@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercise 4</string>
+    <string name="Text">Text:</string>
+    <string name="Tamanho">Tamanho da letra:</string>
+    <string name="tamanho_letra">10 sp</string>
+    <string name="Name">Name</string>
+    <string name="Negrito">Negrito</string>
+    <string name="Itálico">Itálico</string>
+    <string name="Maiúsculo">Maiúsculo</string>
+    <string name="Estilo">Estilo</string>
+    <string name="Cor">Cor da Letra:</string>
+    <string name="Vermelho">Vermelho</string>
+    <string name="Verde">Verde</string>
+    <string name="Azul">Azul</string>
+</resources>
